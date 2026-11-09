@@ -1,0 +1,10 @@
+{
+  "name": "QR Generator Pro",
+  "description": "Professional All-in-One QR Code Generator with Customization, Scanning, and Bulk Generation",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
